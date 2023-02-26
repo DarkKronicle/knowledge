@@ -19,7 +19,7 @@ SITE_TITLE = "Dark's Random Knowledge"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
-SITE_URL = ""
+SITE_URL = "https://wiki.darkkronicle.com"
 # (Optional) Site Timezone
 TIMEZONE = "America/Denver"
 ZOLA_VERSION = "0.15.2"
