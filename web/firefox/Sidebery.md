@@ -1,0 +1,12 @@
+[Sidebery](https://firefoxcss-store.github.io/) is a Firefox addon that adds crazy powerful vertical tabs. Some notable features:
+- Tree style tabs
+- Useful shortcuts on tabs (unload, reload, bookmark, open in container)
+- Built in Firefox Container support
+- Tab pages
+- Save page to bookmarks and load from bookmarks
+- Coloring
+- Tons of customization
+- Edit tab names and tab color
+- Automatic coloring
+- Clear cookies
+- And way more
