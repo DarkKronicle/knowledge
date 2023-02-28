@@ -1,1 +1,1 @@
-This is my wiki!
+This site serves as a collection of random things I have learned. I enjoy going on random internet rabbit holes, so I hope to build a collection of the things I have researched here. Inspiration for this came from [Nikiv's "Everything I Know"](https://wiki.nikiv.dev/) (check it out).
