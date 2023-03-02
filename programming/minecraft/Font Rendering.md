@@ -48,7 +48,7 @@ This is by far the best looking font option, but it isn't implemented fully. (Lo
 
 **Flaws**
 
-- Minecraft doesn't properly handle [[Font Rendering|Bearing X]], resulting in some characters like `j` to be completely messed up.
+- Minecraft doesn't properly handle Bearing X, resulting in some characters like `j` to be completely messed up.
 - Subpixel precision doesn't work. Fonts don't like snapping to pixels. There are a lot of times when a character is inbetween two pixels. Minecraft renders both of these the exact same, but a method called oversampling allows these to look crisper. Without oversampling Minecraft can have a very inconsistent look at smaller font sizes.
 
 -----

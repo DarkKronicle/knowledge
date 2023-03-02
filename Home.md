@@ -1,1 +1,3 @@
+> **DISCLAIMER:** I'm not an expert on most things here. This is just to serve as a place for me to store what I learn, things may not contain the best practices or information.
+
 This site serves as a collection of random things I have learned. I enjoy going on random internet rabbit holes, so I hope to build a collection of the things I have researched here. Inspiration for this came from [Nikiv's "Everything I Know"](https://wiki.nikiv.dev/) (check it out).

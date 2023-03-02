@@ -34,7 +34,7 @@ HOME_GRAPH = "y"
 # (Optional, default true) Shows knowledge graph on every page. Put "" to disable.
 PAGE_GRAPH = ""
 # (Optional, default false) Whether sidebar sections should be collapsed by default.
-SIDEBAR_COLLAPSED = ""
+SIDEBAR_COLLAPSED = "true"
 # (Optional, default blank) Additional footer content.
 FOOTER = ""
 # (Optional, default main) Root section name.
@@ -60,7 +60,8 @@ GRAPH_OPTIONS = """
         		color: { inherit: "both" },
         		width: 0.8,
         		smooth: {
-        			type: "continuous",
+        			type: "straightCross",
+					roundness: 1.0,
         		},
         		hoverWidth: 4,
         	},
